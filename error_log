@@ -1,0 +1,145 @@
+[10-Sep-2019 13:26:53 Etc/GMT] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/slogsolutions/public_html/check.php on line 4
+[10-Sep-2019 13:26:53 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/slogsolutions/public_html/check.php on line 160
+[10-Sep-2019 13:26:53 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/slogsolutions/public_html/check.php on line 162
+[10-Sep-2019 13:26:53 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/slogsolutions/public_html/check.php on line 163
+[10-Sep-2019 14:22:22 Etc/GMT] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'slogsolu_admin'@'bh-in-16.webhostbox.net' to database 'slogsolu_slogdata' in /home/slogsolutions/public_html/connect.php on line 2
+[10-Sep-2019 14:25:07 Etc/GMT] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'slogsolu_admin'@'bh-in-16.webhostbox.net' to database 'slogsolu_slogdata' in /home/slogsolutions/public_html/connect.php on line 2
+[10-Sep-2019 14:41:44 Etc/GMT] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/slogsolutions/public_html/check.php on line 4
+[10-Sep-2019 14:41:44 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/slogsolutions/public_html/coursedetails.php on line 155
+[10-Sep-2019 14:41:44 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/slogsolutions/public_html/coursedetails.php on line 157
+[10-Sep-2019 14:41:44 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/slogsolutions/public_html/coursedetails.php on line 162
+[10-Sep-2019 16:37:10 Etc/GMT] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/slogsolutions/public_html/check.php on line 4
+[10-Sep-2019 16:37:18 Etc/GMT] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/slogsolutions/public_html/check.php on line 4
+[10-Sep-2019 16:37:19 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/slogsolutions/public_html/coursedetails.php on line 155
+[10-Sep-2019 16:37:19 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/slogsolutions/public_html/coursedetails.php on line 157
+[10-Sep-2019 16:37:19 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/slogsolutions/public_html/coursedetails.php on line 162
+[10-Sep-2019 16:37:22 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/slogsolutions/public_html/coursedetails.php on line 155
+[10-Sep-2019 16:37:22 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/slogsolutions/public_html/coursedetails.php on line 157
+[10-Sep-2019 16:37:22 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/slogsolutions/public_html/coursedetails.php on line 162
+[11-Sep-2019 05:47:23 Etc/GMT] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/slogsolutions/public_html/check.php on line 4
+[11-Sep-2019 07:08:13 Etc/GMT] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/slogsolutions/public_html/check.php on line 4
+[11-Sep-2019 13:25:01 Etc/GMT] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/slogsolutions/public_html/check.php on line 4
+[11-Sep-2019 13:28:53 Etc/GMT] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/slogsolutions/public_html/check.php on line 168
+[11-Sep-2019 13:29:43 Etc/GMT] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/slogsolutions/public_html/check.php on line 168
+[11-Sep-2019 13:32:56 Etc/GMT] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/slogsolutions/public_html/check.php on line 168
+[11-Sep-2019 13:37:16 Etc/GMT] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/slogsolutions/public_html/check.php on line 4
+[11-Sep-2019 13:38:37 Etc/GMT] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/slogsolutions/public_html/check.php on line 4
+[11-Sep-2019 13:38:57 Etc/GMT] PHP Notice:  Undefined index: branch in /home/slogsolutions/public_html/coursedetails.php on line 19
+[11-Sep-2019 13:46:52 Etc/GMT] PHP Notice:  Undefined index: branch in /home/slogsolutions/public_html/coursedetails.php on line 19
+[12-Sep-2019 11:53:05 Etc/GMT] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/slogsolutions/public_html/check.php on line 4
+[12-Sep-2019 11:53:12 Etc/GMT] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/slogsolutions/public_html/check.php on line 4
+[12-Sep-2019 11:53:16 Etc/GMT] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/slogsolutions/public_html/check.php on line 4
+[15-Sep-2019 12:31:20 Etc/GMT] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/slogsolutions/public_html/check.php on line 4
+[15-Sep-2019 12:31:55 Etc/GMT] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/slogsolutions/public_html/check.php on line 4
+[15-Sep-2019 12:33:06 Etc/GMT] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/slogsolutions/public_html/check.php on line 4
+[15-Sep-2019 12:33:34 Etc/GMT] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/slogsolutions/public_html/check.php on line 4
+[15-Sep-2019 12:33:43 Etc/GMT] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/slogsolutions/public_html/check.php on line 4
+[15-Sep-2019 12:33:44 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/slogsolutions/public_html/dashboard.php on line 4
+[15-Sep-2019 12:33:44 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/slogsolutions/public_html/dashboard.php on line 6
+[15-Sep-2019 12:33:44 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/slogsolutions/public_html/dashboard.php on line 7
+[18-Sep-2019 14:40:37 Etc/GMT] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/slogsolutions/public_html/check.php on line 4
+[18-Sep-2019 14:40:46 Etc/GMT] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/slogsolutions/public_html/check.php on line 4
+[24-Sep-2019 11:01:52 Etc/GMT] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/slogsolutions/public_html/check.php on line 4
+[24-Sep-2019 11:02:00 Etc/GMT] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/slogsolutions/public_html/check.php on line 4
+[24-Sep-2019 11:02:25 Etc/GMT] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/slogsolutions/public_html/check.php on line 4
+[25-Sep-2019 15:25:12 Etc/GMT] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/slogsolutions/public_html/check.php on line 4
+[25-Sep-2019 15:25:19 Etc/GMT] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/slogsolutions/public_html/check.php on line 4
+[25-Sep-2019 15:25:32 Etc/GMT] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/slogsolutions/public_html/check.php on line 4
+[25-Sep-2019 15:25:40 Etc/GMT] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/slogsolutions/public_html/check.php on line 4
+[25-Sep-2019 15:25:47 Etc/GMT] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/slogsolutions/public_html/check.php on line 4
+[25-Sep-2019 15:25:53 Etc/GMT] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/slogsolutions/public_html/check.php on line 4
+[25-Sep-2019 15:26:05 Etc/GMT] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/slogsolutions/public_html/check.php on line 4
+[26-Sep-2019 08:18:35 Etc/GMT] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/slogsolutions/public_html/check.php on line 4
+[26-Sep-2019 08:18:42 Etc/GMT] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/slogsolutions/public_html/check.php on line 4
+[26-Sep-2019 08:22:40 Etc/GMT] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/slogsolutions/public_html/check.php on line 4
+[27-Sep-2019 12:43:13 Etc/GMT] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/slogsolutions/public_html/check.php on line 4
+[27-Sep-2019 12:47:42 Etc/GMT] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/slogsolutions/public_html/check.php on line 4
+[27-Sep-2019 12:47:46 Etc/GMT] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/slogsolutions/public_html/check.php on line 4
+[27-Sep-2019 12:47:53 Etc/GMT] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/slogsolutions/public_html/check.php on line 4
+[27-Sep-2019 13:54:16 Etc/GMT] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/slogsolutions/public_html/check.php on line 4
+[27-Sep-2019 13:54:20 Etc/GMT] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/slogsolutions/public_html/check.php on line 4
+[27-Sep-2019 13:54:22 Etc/GMT] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/slogsolutions/public_html/check.php on line 4
+[27-Sep-2019 13:54:25 Etc/GMT] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/slogsolutions/public_html/check.php on line 4
+[27-Sep-2019 13:54:28 Etc/GMT] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/slogsolutions/public_html/check.php on line 4
+[04-Oct-2019 10:39:40 Etc/GMT] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/slogsolutions/public_html/check.php on line 4
+[07-Dec-2019 10:15:18 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/slogsolutions/public_html/connect.php on line 2
+[07-Dec-2019 10:15:18 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/slogsolutions/public_html/header.php on line 117
+[07-Dec-2019 10:15:18 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/slogsolutions/public_html/header.php on line 118
+[07-Dec-2019 10:15:18 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/slogsolutions/public_html/header.php on line 128
+[07-Dec-2019 10:15:18 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/slogsolutions/public_html/header.php on line 129
+[07-Dec-2019 10:15:18 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/slogsolutions/public_html/header.php on line 139
+[07-Dec-2019 10:15:18 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/slogsolutions/public_html/header.php on line 140
+[07-Dec-2019 10:15:18 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/slogsolutions/public_html/header.php on line 150
+[07-Dec-2019 10:15:18 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/slogsolutions/public_html/header.php on line 151
+[07-Dec-2019 10:15:18 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/slogsolutions/public_html/header.php on line 165
+[07-Dec-2019 10:15:18 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/slogsolutions/public_html/header.php on line 166
+[07-Dec-2019 10:15:18 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/slogsolutions/public_html/header.php on line 176
+[07-Dec-2019 10:15:18 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/slogsolutions/public_html/header.php on line 177
+[07-Dec-2019 10:15:18 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/slogsolutions/public_html/header.php on line 187
+[07-Dec-2019 10:15:18 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/slogsolutions/public_html/header.php on line 188
+[07-Dec-2019 10:15:18 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/slogsolutions/public_html/header.php on line 198
+[07-Dec-2019 10:15:18 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/slogsolutions/public_html/header.php on line 199
+[07-Dec-2019 10:16:45 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/slogsolutions/public_html/connect.php on line 2
+[07-Dec-2019 10:16:45 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/slogsolutions/public_html/header.php on line 117
+[07-Dec-2019 10:16:45 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/slogsolutions/public_html/header.php on line 118
+[07-Dec-2019 10:16:45 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/slogsolutions/public_html/header.php on line 128
+[07-Dec-2019 10:16:45 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/slogsolutions/public_html/header.php on line 129
+[07-Dec-2019 10:16:45 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/slogsolutions/public_html/header.php on line 139
+[07-Dec-2019 10:16:45 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/slogsolutions/public_html/header.php on line 140
+[07-Dec-2019 10:16:45 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/slogsolutions/public_html/header.php on line 150
+[07-Dec-2019 10:16:45 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/slogsolutions/public_html/header.php on line 151
+[07-Dec-2019 10:29:09 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/slogsolutions/public_html/connect.php on line 2
+[07-Dec-2019 10:29:09 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/slogsolutions/public_html/header.php on line 117
+[07-Dec-2019 10:29:09 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/slogsolutions/public_html/header.php on line 118
+[07-Dec-2019 10:29:09 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/slogsolutions/public_html/header.php on line 128
+[07-Dec-2019 10:29:09 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/slogsolutions/public_html/header.php on line 129
+[07-Dec-2019 10:29:09 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/slogsolutions/public_html/header.php on line 139
+[07-Dec-2019 10:29:09 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/slogsolutions/public_html/header.php on line 140
+[07-Dec-2019 10:29:09 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/slogsolutions/public_html/header.php on line 150
+[07-Dec-2019 10:29:09 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/slogsolutions/public_html/header.php on line 151
+[07-Dec-2019 10:43:00 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/slogsolutions/public_html/connect.php on line 2
+[07-Dec-2019 10:43:00 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/slogsolutions/public_html/header.php on line 117
+[07-Dec-2019 10:43:00 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/slogsolutions/public_html/header.php on line 118
+[07-Dec-2019 10:43:00 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/slogsolutions/public_html/header.php on line 128
+[07-Dec-2019 10:43:00 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/slogsolutions/public_html/header.php on line 129
+[07-Dec-2019 10:43:00 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/slogsolutions/public_html/header.php on line 139
+[07-Dec-2019 10:43:00 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/slogsolutions/public_html/header.php on line 140
+[07-Dec-2019 10:43:00 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/slogsolutions/public_html/header.php on line 150
+[07-Dec-2019 10:43:00 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/slogsolutions/public_html/header.php on line 151
+[07-Dec-2019 10:43:06 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/slogsolutions/public_html/connect.php on line 2
+[07-Dec-2019 10:43:06 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/slogsolutions/public_html/header.php on line 117
+[07-Dec-2019 10:43:06 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/slogsolutions/public_html/header.php on line 118
+[07-Dec-2019 10:43:06 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/slogsolutions/public_html/header.php on line 128
+[07-Dec-2019 10:43:06 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/slogsolutions/public_html/header.php on line 129
+[07-Dec-2019 10:43:06 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/slogsolutions/public_html/header.php on line 139
+[07-Dec-2019 10:43:06 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/slogsolutions/public_html/header.php on line 140
+[07-Dec-2019 10:43:06 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/slogsolutions/public_html/header.php on line 150
+[07-Dec-2019 10:43:06 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/slogsolutions/public_html/header.php on line 151
+[07-Dec-2019 10:43:48 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/slogsolutions/public_html/connect.php on line 2
+[07-Dec-2019 10:43:48 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/slogsolutions/public_html/header.php on line 117
+[07-Dec-2019 10:43:48 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/slogsolutions/public_html/header.php on line 118
+[07-Dec-2019 10:43:48 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/slogsolutions/public_html/header.php on line 128
+[07-Dec-2019 10:43:48 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/slogsolutions/public_html/header.php on line 129
+[07-Dec-2019 10:43:48 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/slogsolutions/public_html/header.php on line 139
+[07-Dec-2019 10:43:48 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/slogsolutions/public_html/header.php on line 140
+[07-Dec-2019 10:43:48 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/slogsolutions/public_html/header.php on line 150
+[07-Dec-2019 10:43:48 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/slogsolutions/public_html/header.php on line 151
+[07-Dec-2019 10:53:36 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/slogsolutions/public_html/connect.php on line 2
+[07-Dec-2019 10:53:36 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/slogsolutions/public_html/header.php on line 117
+[07-Dec-2019 10:53:36 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/slogsolutions/public_html/header.php on line 118
+[07-Dec-2019 10:53:36 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/slogsolutions/public_html/header.php on line 128
+[07-Dec-2019 10:53:36 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/slogsolutions/public_html/header.php on line 129
+[07-Dec-2019 10:53:36 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/slogsolutions/public_html/header.php on line 139
+[07-Dec-2019 10:53:36 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/slogsolutions/public_html/header.php on line 140
+[07-Dec-2019 10:53:36 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/slogsolutions/public_html/header.php on line 150
+[07-Dec-2019 10:53:36 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/slogsolutions/public_html/header.php on line 151
+[07-Dec-2019 10:53:37 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/slogsolutions/public_html/connect.php on line 2
+[07-Dec-2019 10:53:37 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/slogsolutions/public_html/header.php on line 117
+[07-Dec-2019 10:53:37 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/slogsolutions/public_html/header.php on line 118
+[07-Dec-2019 10:53:37 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/slogsolutions/public_html/header.php on line 128
+[07-Dec-2019 10:53:37 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/slogsolutions/public_html/header.php on line 129
+[07-Dec-2019 10:53:37 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/slogsolutions/public_html/header.php on line 139
+[07-Dec-2019 10:53:37 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/slogsolutions/public_html/header.php on line 140
+[07-Dec-2019 10:53:37 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/slogsolutions/public_html/header.php on line 150
+[07-Dec-2019 10:53:37 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/slogsolutions/public_html/header.php on line 151
+[09-Dec-2019 12:11:44 Etc/GMT] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/slogsolutions/public_html/check.php on line 4

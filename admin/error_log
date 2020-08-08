@@ -1,0 +1,39 @@
+[07-Dec-2019 11:00:40 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/slogsolutions/public_html/connect.php on line 2
+[07-Dec-2019 11:00:40 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/slogsolutions/public_html/admin/adminlogin.php on line 8
+[07-Dec-2019 11:00:40 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/slogsolutions/public_html/admin/adminlogin.php on line 9
+[07-Dec-2019 11:01:04 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/slogsolutions/public_html/connect.php on line 2
+[07-Dec-2019 11:01:04 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/slogsolutions/public_html/admin/adminlogin.php on line 8
+[07-Dec-2019 11:01:04 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/slogsolutions/public_html/admin/adminlogin.php on line 9
+[07-Dec-2019 11:01:29 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/slogsolutions/public_html/connect.php on line 2
+[07-Dec-2019 11:01:29 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/slogsolutions/public_html/admin/adminlogin.php on line 8
+[07-Dec-2019 11:01:29 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/slogsolutions/public_html/admin/adminlogin.php on line 9
+[07-Dec-2019 11:14:14 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/slogsolutions/public_html/admin/training.php:1) in /home/slogsolutions/public_html/admin/training.php on line 125
+[07-Dec-2019 11:23:16 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/slogsolutions/public_html/admin/training.php:1) in /home/slogsolutions/public_html/admin/training.php on line 125
+[07-Dec-2019 11:27:04 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/slogsolutions/public_html/admin/training.php:1) in /home/slogsolutions/public_html/admin/training.php on line 125
+[07-Dec-2019 11:29:12 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/slogsolutions/public_html/admin/training.php:1) in /home/slogsolutions/public_html/admin/training.php on line 125
+[07-Dec-2019 11:35:59 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/slogsolutions/public_html/admin/training.php:1) in /home/slogsolutions/public_html/admin/training.php on line 125
+[07-Dec-2019 11:37:59 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/slogsolutions/public_html/admin/training.php:1) in /home/slogsolutions/public_html/admin/training.php on line 125
+[07-Dec-2019 11:39:56 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/slogsolutions/public_html/admin/training.php:1) in /home/slogsolutions/public_html/admin/training.php on line 125
+[07-Dec-2019 11:41:37 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/slogsolutions/public_html/admin/training.php:1) in /home/slogsolutions/public_html/admin/training.php on line 125
+[07-Dec-2019 11:44:40 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/slogsolutions/public_html/admin/training.php:1) in /home/slogsolutions/public_html/admin/training.php on line 125
+[07-Dec-2019 11:47:18 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/slogsolutions/public_html/admin/training.php:1) in /home/slogsolutions/public_html/admin/training.php on line 125
+[07-Dec-2019 11:47:24 Etc/GMT] PHP Notice:  Undefined index: sid in /home/slogsolutions/public_html/admin/edittraining.php on line 3
+[07-Dec-2019 12:16:34 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/slogsolutions/public_html/admin/training.php:1) in /home/slogsolutions/public_html/admin/training.php on line 125
+[07-Dec-2019 12:20:05 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/slogsolutions/public_html/admin/training.php:1) in /home/slogsolutions/public_html/admin/training.php on line 125
+[07-Dec-2019 12:43:06 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/slogsolutions/public_html/admin/training.php:1) in /home/slogsolutions/public_html/admin/training.php on line 125
+[07-Dec-2019 12:44:19 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/slogsolutions/public_html/admin/training.php:1) in /home/slogsolutions/public_html/admin/training.php on line 125
+[07-Dec-2019 12:46:09 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/slogsolutions/public_html/admin/training.php:1) in /home/slogsolutions/public_html/admin/training.php on line 125
+[09-Dec-2019 05:27:18 Etc/GMT] PHP Notice:  Undefined index: uid in /home/slogsolutions/public_html/admin/header.php on line 7
+[09-Dec-2019 05:33:32 Etc/GMT] PHP Notice:  Undefined index: uid in /home/slogsolutions/public_html/admin/header.php on line 7
+[09-Dec-2019 05:36:20 Etc/GMT] PHP Notice:  Undefined index: sid in /home/slogsolutions/public_html/admin/header.php on line 7
+[09-Dec-2019 05:36:20 Etc/GMT] PHP Notice:  Undefined index: uid in /home/slogsolutions/public_html/admin/header.php on line 7
+[09-Dec-2019 06:17:38 Etc/GMT] PHP Notice:  Undefined index: sid in /home/slogsolutions/public_html/admin/header.php on line 7
+[09-Dec-2019 06:17:38 Etc/GMT] PHP Notice:  Undefined index: uid in /home/slogsolutions/public_html/admin/header.php on line 7
+[09-Dec-2019 09:14:22 Etc/GMT] PHP Notice:  Undefined index: sid in /home/slogsolutions/public_html/admin/header.php on line 7
+[09-Dec-2019 09:14:22 Etc/GMT] PHP Notice:  Undefined index: uid in /home/slogsolutions/public_html/admin/header.php on line 7
+[09-Dec-2019 09:23:11 Etc/GMT] PHP Notice:  Undefined index: sid in /home/slogsolutions/public_html/admin/header.php on line 7
+[09-Dec-2019 09:23:11 Etc/GMT] PHP Notice:  Undefined index: uid in /home/slogsolutions/public_html/admin/header.php on line 7
+[09-Dec-2019 09:23:12 Etc/GMT] PHP Notice:  Undefined index: sid in /home/slogsolutions/public_html/admin/header.php on line 7
+[09-Dec-2019 09:23:12 Etc/GMT] PHP Notice:  Undefined index: uid in /home/slogsolutions/public_html/admin/header.php on line 7
+[09-Dec-2019 12:35:59 Etc/GMT] PHP Notice:  Undefined index: sid in /home/slogsolutions/public_html/admin/header.php on line 7
+[09-Dec-2019 12:35:59 Etc/GMT] PHP Notice:  Undefined index: uid in /home/slogsolutions/public_html/admin/header.php on line 7
